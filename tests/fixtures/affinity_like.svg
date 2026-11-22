@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 1181 1181" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g id="Layer1" serif:id="Layer 1" transform="matrix(1,0,0,1,100,100)">
+        <circle cx="200" cy="200" r="118.11" style="fill:none;stroke:rgb(255,0,0);stroke-width:1px;"/>
+        <path d="M500,100C600,100 700,200 700,300C700,400 600,500 500,500" style="fill:none;stroke:black;stroke-width:1px;"/>
+        <ellipse cx="300" cy="700" rx="200" ry="100" style="fill:none;stroke:rgb(35,31,32);stroke-width:1px;"/>
+        <path d="M600,600L900,600L900,900L600,900Z M700,700L800,700L800,800L700,800Z" style="fill:rgb(0,0,0);"/>
+    </g>
+    <g style="stroke:#0000ff;fill:none"><rect x="10" y="10" width="50" height="50"/></g>
+    <text x="10" y="1100">Hello</text>
+</svg>
